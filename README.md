@@ -2,7 +2,11 @@
 
 ![Alt text](stopwatch_screen.jpg?raw=true "widget stopwatch")
 
-It is simple stopwatch widget written in pure javascript. You can add it with following steps:
+It is simple stopwatch widget written in pure javascript. 
+
+[Demo](https://arslangapizov.github.io/stopwatch.js)
+
+You can add it with following steps:
 
 1.Add div in your html
 
@@ -35,3 +39,4 @@ It is unique stopwatch widget because you can download csv file with your laps
 Example:
 
 ![Alt text](stopwatch_csv_screen.jpg?raw=true "widget stopwatch")
+
